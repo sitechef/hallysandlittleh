@@ -42,10 +42,10 @@ section.section {
   box-sizing: border-box;
   float: left;
   &.hallys-section {
-    background-image: url(/img/hallys_bg.jpg);
+    background-image: url(../img/hallys_bg.jpg);
   }
   &.littleh-section {
-    background-image: url(/img/littleh_bg.jpg);
+    background-image: url(../img/littleh_bg.jpg);
     background-position: top left;
   }
 }
@@ -109,10 +109,10 @@ a.logo {
 }
 
 a.logo-littleh {
-  background-image: url(/img/littleh_logo.png);
+  background-image: url(../img/littleh_logo.png);
 }
 a.logo-hallys {
-  background-image: url(/img/hallys_logo.png);
+  background-image: url(../img/hallys_logo.png);
 }
 
 a.button {
@@ -130,8 +130,8 @@ a.button {
   }
 }
 a.button-littleh {
-  background-image: url(/img/button_littleh.png);
+  background-image: url(../img/button_littleh.png);
 }
 a.button-hallys {
-  background-image: url(/img/button_hallys.png);
+  background-image: url(../img/button_hallys.png);
 }
