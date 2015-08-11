@@ -16,6 +16,9 @@ html, body {
   overflow: auto;
   box-sizing: border-box;
   background: white;
+  @media screen and (max-width:680px){
+    height: auto !important;
+  }
 }
 
 
