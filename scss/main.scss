@@ -143,6 +143,7 @@ a.button-hallys {
 @media screen and (max-width:680px){
   a.logo {
     height: 108px;
+    background-size: contain;
   }
   a.button {
     height: 65px;
