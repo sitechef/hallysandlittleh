@@ -144,6 +144,9 @@ a.button-hallys {
   a.logo {
     height: 108px;
     background-size: contain;
+    &.logo-littleh {
+      height: 98px;
+    }
   }
   a.button {
     height: 65px;
