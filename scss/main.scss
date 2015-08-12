@@ -92,7 +92,7 @@ nav {
   }
   .csstransforms nav {
     top: auto;
-    margin-top: 30px;
+    margin-top: 0;
     @include transform(translateY(0));
   }
 }
@@ -137,4 +137,14 @@ a.button-littleh {
 }
 a.button-hallys {
   background-image: url(../img/button_hallys.png);
+}
+
+
+@media screen and (max-width:680px){
+  a.logo {
+    height: 108px;
+  }
+  a.button {
+    height: 65px;
+  }
 }
